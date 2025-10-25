@@ -1,5 +1,15 @@
 # Ignore everything by default
 *
+# Ignore everything by default
+*
+
+# Include only these files
+!text.txt
+!train.txt
+!val.txt
+
+# Include this .gitignore file itself
+!.gitignore
 
 # Include only these folders
 !text/
