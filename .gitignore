@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# Include only these folders
+!text/
+!train/
+!val/
+
+# Include .gitignore file itself
+!.gitignore
