@@ -4,17 +4,10 @@
 *
 
 # Include only these files
+!index.py
 !text.txt
 !train.txt
 !val.txt
-
+!README.md
 # Include this .gitignore file itself
-!.gitignore
-
-# Include only these folders
-!text/
-!train/
-!val/
-
-# Include .gitignore file itself
 !.gitignore
